@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ecommerce website<br>🌱 I’m currently learning Mern stack<br>💬 Ask me about Javascript,Reactjs<br>⚡ I love learning
+🌱 I’m currently learning Mern stack<br>💬 Ask me about Javascript,Reactjs<br>⚡ I love learning
 
 
 ## 🌐 Socials:
